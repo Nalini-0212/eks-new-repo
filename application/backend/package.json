@@ -1,0 +1,1 @@
+{"name":"devops-backend","version":"1.0.0","private":true,"main":"src/app.js","scripts":{"start":"node src/app.js"},"dependencies":{"express":"^4.21.2","pg":"^8.13.1"}}
